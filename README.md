@@ -1,2 +1,2 @@
 # web-school
-web sekolah 
+Aplikasi Web Sekolah

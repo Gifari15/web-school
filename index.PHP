@@ -49,7 +49,7 @@
                 }
                 else if($_GET['pesan']=='berhasil')
                 {
-                    echo "Anda berhasil daftar, Silahkan login";
+                    echo "Anda berhasil daftar, Silahkan login y";
                 }
             }
 ?>
